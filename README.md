@@ -14,4 +14,4 @@ To install package
 ```bash
     $ cd Tobigs_week2_assignment
     $ pip install -r requirements.txt
-    $ python manage.py runserver
+    $ python manage.py runserver 0.0.0.0:8000
