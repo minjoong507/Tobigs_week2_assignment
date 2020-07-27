@@ -6,7 +6,6 @@
 To install package
 ```bash
     $ git clone https://github.com/minjoong507/Tobigs_week2_assignment.git
-    $ cd CrossCutting
 ```
 
 ## Getting Started in Web
